@@ -2,8 +2,10 @@
     print (x)
 
 for x in range (5):
-    print (x)"""
+    print (x)
 
 texto = "python"
 for letra in texto:
-    print (letra) 
+    print (letra) """
+
+
